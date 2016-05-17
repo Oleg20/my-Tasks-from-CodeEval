@@ -1,2 +1,2 @@
 # my-Tasks-from-CodeEval
-my Tasks from CodeEval that I solved
+my Tasks from CodeEval that I solved.
